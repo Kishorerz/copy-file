@@ -29,17 +29,19 @@ End of the program
 # Developed by : KISHOR KUMAR B.
 #RegisterNumber:212223240072
 with open("basic.txt","r") as f:
-    x=f.read()
-with open("basic2.txt","w") as f1:
-    f1.write(x)
+    with open("basic2.txt","w") as f1:
+        x=f.read()
+        f1.write(x)
 
 ```
 
 ### OUTPUT:
-![Screenshot 2023-12-30 070048](https://github.com/Kishorerz/copy-file/assets/144451216/990bcbe0-5019-425e-8b2f-753cacf53557)
+![Screenshot 2024-01-02 134757](https://github.com/Kishorerz/copy-file/assets/144451216/947196d9-6284-4eba-9bbb-3535029c8378)
 
-![Screenshot 2023-12-30 064807](https://github.com/Kishorerz/copy-file/assets/144451216/95f12af7-d951-4c86-a481-bc9142dfff76)
-![Screenshot 2023-12-30 064728](https://github.com/Kishorerz/copy-file/assets/144451216/d1f36313-1800-42ae-b643-501339af833b)
+![Screenshot 2024-01-02 134807](https://github.com/Kishorerz/copy-file/assets/144451216/38b10f04-4ae7-45e8-8309-edadc30e620c)
+
+![Screenshot 2024-01-02 134819](https://github.com/Kishorerz/copy-file/assets/144451216/fefab326-24bc-4fb8-8d54-276ba24e0805)
+
 
 
 
