@@ -39,6 +39,9 @@ with open("basic.txt","r") as f:
 ![Screenshot 2024-01-02 134757](https://github.com/Kishorerz/copy-file/assets/144451216/947196d9-6284-4eba-9bbb-3535029c8378)
 
 ![Screenshot 2024-01-02 134807](https://github.com/Kishorerz/copy-file/assets/144451216/38b10f04-4ae7-45e8-8309-edadc30e620c)
+### old basic2.txt
+![Screenshot 2024-01-02 135752](https://github.com/Kishorerz/copy-file/assets/144451216/1f576d2e-3f17-4be1-8bcd-bdd774eb2bc5)
+
 
 ![Screenshot 2024-01-02 134819](https://github.com/Kishorerz/copy-file/assets/144451216/fefab326-24bc-4fb8-8d54-276ba24e0805)
 
